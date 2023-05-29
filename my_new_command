@@ -1,2 +1,2 @@
-echo "This is my new command which is gonna find all the files which contains fatih as a string"
+echo "This is my new command which is gonna find all the files which contains in its name fatih as a string"
 find / -type f -name *fatih*
