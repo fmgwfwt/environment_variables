@@ -1,5 +1,5 @@
 # environment_variables
-
+Environment variables are truly dynamic and can be changed based on the environment that your program is running in. <br />
 in linux there there is a path variable for example you can use ls or /bin/ls because there is a path variable you don't have to <br />
 PASSCODE=HereTheKing ./a.out   // this environment variable is just for the program <br />
 export PASSCODE=HereTheKing    // for the entire terminal session <br />
@@ -22,4 +22,4 @@ and then the files in that folder will be executable <br />
 For example you downloaded python and installed but didn't select the path for you os to look to execute the python command in cli when you put the environment variable it's gonna know where to look <br />
 
 in linux for your environment variable to be constant you need to modify .bashrc file in /home/user_name/.bashrc <br />
-
+for global change you can edit /etc/environment file <br /> 
