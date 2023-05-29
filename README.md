@@ -15,3 +15,4 @@ set INTERVAL=1    //sets the environment variable and echo %INTERVAL% prints the
 set command shows the envirnoment variables <br />
 <br />
 in linux you can also create a file in one of the executable paths like /usr/bin/my_new_command <br />
+and then start to run that command from your terminal <br />
