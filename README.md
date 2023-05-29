@@ -23,3 +23,5 @@ For example you downloaded python and installed but didn't select the path for y
 
 in linux for your environment variable to be constant you need to modify .bashrc file in /home/user_name/.bashrc <br />
 for global change you can edit /etc/environment file <br /> 
+
+## learn
