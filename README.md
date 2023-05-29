@@ -18,3 +18,5 @@ in linux you can also create a file in one of the executable paths like /usr/bin
 and then start to run that command from your terminal <br />
 in windows you can set the path to a folder as temporary set = PATH C:\mine <br /> 
 and then the files in that folder will be executable <br /> 
+<br />
+For example you downloaded python and installed but didn't select the path for you os to look to execute the python command in cli when you put the environment variable it's gonna know where to look <br />
