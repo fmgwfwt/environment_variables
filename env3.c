@@ -4,10 +4,8 @@
 extern char** environ;
 
 int main(int argc, char** argv, char** envp){
-
     putenv("PASSCODE1=KINGARTHUR");
-    setenv("PASSCODE2=HEREIAM");
-     
+    setenv("PASSCODE2=HEREIAM");     
     for(int i = 0;environ[i] != NULL;i++){
         printf("%d: %s\n", i, environ[i]);
     }
