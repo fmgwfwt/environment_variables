@@ -16,3 +16,5 @@ set command shows the envirnoment variables <br />
 <br />
 in linux you can also create a file in one of the executable paths like /usr/bin/my_new_command <br />
 and then start to run that command from your terminal <br />
+in windows you can set the path to a folder as temporary set = PATH C:\mine <br /> 
+and then the files in that folder will be executable <br /> 
