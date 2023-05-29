@@ -8,7 +8,7 @@ in env3 putenv or setenv functions sets the variable just for the program and an
 in env4 this program sets the environment variable "PASSCODE" to "HEREIAM", forks a new process, and executes the same program (a.out) in the child process child will see the variable change <br />
 <br />
 in linux <br />
-export INTERVAL=1 //sets the environment variable and echo $INTERVAL prints the environment variable <br /> 
+export INTERVAL=1 //sets the environment variable and echo $INTERVAL prints the environment variable printenv INTERVAL <br /> 
 env command or printenv command show the envirnoment variables <br />
 in windows <br />
 set INTERVAL=1    //sets the environment variable and echo %INTERVAL% prints the environment variable <br /> 
